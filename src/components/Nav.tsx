@@ -29,17 +29,17 @@ const Nav = () => {
         >
           <ul className="space-y-5" onClick={() => setShowNav(!showNav)}>
             <li>
-              <a href="#">Home</a>
+              <a href="#"> Nyumbani </a>
             </li>
             <li>
               {" "}
-              <a href="#aboutUs">About Us</a>
+              <a href="#aboutUs">Kuhusu Chui</a>
             </li>
             <li>
-              <a href="/blogs">Blogs</a>
+              <a href="/blogs"> Taarifa </a>
             </li>
             <li>
-              <a href="#mawasiliano">Contact Us</a>
+              <a href="#mawasiliano"> Wasiliana Nasi </a>
             </li>
           </ul>
         </section>
@@ -48,17 +48,17 @@ const Nav = () => {
       {/* For wide Screens */}
       <ul className="md:flex gap-5 hidden text-lg">
         <li>
-          <a href="#">Home</a>
+          <a href="#"> Nyumbani </a>
         </li>
         <li>
           {" "}
-          <a href="#aboutUs">About Us</a>
+          <a href="#aboutUs"> Kuhusu Chui </a>
         </li>
         <li>
-          <a href="/blogs">Blogs</a>
+          <a href="/blogs">Taarifa </a>
         </li>
         <li>
-          <a href="#mawasiliano">Contact Us</a>
+          <a href="#mawasiliano"> Wasiliana Nasi </a>
         </li>
       </ul>
     </div>
