@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Elimu Bora, Na Bure, Yaw"
+title: "Elimu Bora, Na Bure, Yawezekana?"
 description: ""
 updatedDate: "December 10 2022"
 heroImage: "https://images.unsplash.com/photo-1673205194019-55ac9f0a0899?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60.jpg"
