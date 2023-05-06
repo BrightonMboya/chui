@@ -36,7 +36,7 @@ const Nav = () => {
               <a href="#aboutUs">Kuhusu Chui</a>
             </li>
             <li>
-              <!-- <a href="/blogs"> Taarifa </a> --> 
+              
             </li>
             <li>
               <a href="#mawasiliano"> Wasiliana Nasi </a>
