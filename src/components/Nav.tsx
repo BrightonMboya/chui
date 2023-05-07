@@ -55,7 +55,7 @@ const Nav = () => {
           <a href="#aboutUs"> Kuhusu Chui </a>
         </li>
         <li>
-          <a href="/blogs">Taarifa </a>
+          <a href="https://www.instagram.com/the_chui_challenge/"> Instagram </a>
         </li>
         <li>
           <a href="#mawasiliano"> Wasiliana Nasi </a>
