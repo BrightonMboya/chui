@@ -33,13 +33,13 @@ const Nav = () => {
             </li>
             <li>
               {" "}
-              <a href="#aboutUs">Kuhusu Chui</a>
+              <a href="https://www.linkedin.com/showcase/chui-forums">LinkedIn</a>
             </li>
             <li>
               
             </li>
             <li>
-              <a href="#mawasiliano"> Wasiliana Nasi </a>
+              <a href="https://www.facebook.com/ChuiForums"> FaceBook </a>
             </li>
           </ul>
         </section>
