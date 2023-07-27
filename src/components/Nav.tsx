@@ -52,14 +52,12 @@ const Nav = () => {
         </li>
         <li>
           {" "}
-          <a href="#aboutUs"> Kuhusu Chui </a>
+          <a href="https://www.linkedin.com/showcase/chui-forums"> LinkedIn </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/the_chui_challenge/"> Instagram </a>
+          <a href="https://www.facebook.com/ChuiForums"> FaceBook </a>
         </li>
-        <li>
-          <a href="#mawasiliano"> Wasiliana Nasi </a>
-        </li>
+       
       </ul>
     </div>
   );
